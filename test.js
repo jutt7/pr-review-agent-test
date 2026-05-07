@@ -1,2 +1,2 @@
-console.log('Hello, World!  from test pr branch');
 
+console.log('Hello, World! from test with aws');
