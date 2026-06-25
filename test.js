@@ -1,1 +1,1 @@
-console.log('Hello, World! for test files');
+console.log('Hello, World! for test files and skipped files');
